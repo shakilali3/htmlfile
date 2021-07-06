@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.back-color{
+    background-color: #418ede;
+    height: 53px;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+}
+.header-icon span img{
+    height: 41px;
+    width: auto;
+}
